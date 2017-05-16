@@ -63,12 +63,38 @@
 					</div>
 
 				</section>
-
-				<section>
+				<!-- Photo and Text Section -->
+				<section class="bg-info">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3">
+								<img class="img-responsive img-thumbnail" img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVnAAAAJDYzZTRhODdiLTM1YjEtNDI3OC05MDllLTk4YTE0N2Y5MmJjYw.jpg"
+							</div>
+								<div class="col-md-12">
+									text
+								</div>
+						</div>
+					</div>
 
 				</section>
 
+				<!-- thumbnail section -->
 				<section>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3">
+								<i class="fa fa-beer" aria-hidden="true"></i>
+								<div class="panel panel-default">
+									<div class="panel-body">
+
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3"></div>
+							<div class="col-md-3"></div>
+							<div class="col-md-3"></div>
+						</div>
+					</div>
 
 				</section>
 			</div>
