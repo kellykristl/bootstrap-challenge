@@ -50,6 +50,17 @@
 				</header>
 
 				<section>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="jumbotron text-center">
+									<h1>Welcome to ... my Bootstrap challenge</h1>
+									<p>hipster ipsum text</p>
+									<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
 
 				</section>
 
